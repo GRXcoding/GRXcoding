@@ -19,9 +19,9 @@
 
 Soy un desarrollador motivado que disfruta creando soluciones prácticas con código limpio y bien estructurado. Me gusta aprender nuevas tecnologías, contribuir a proyectos open source y trabajar en ideas personales que puedan ayudar a otros.
 
-- 🌱 Actualmente aprendiendo: **Java, JavaScript y Python**
+- 🎓 Estudiante becado de 2º curso de Desarrollo de Aplicaciones Web
 - 🔭 Trabajando en proyectos de desarrollo web y automatización
-- 💬 Me interesa: **JavaScript, Python, Shell, PHP, GitHub Actions y Ciberseguridad**
+- 💬 Me interesa: **JavaScript, Python, Shell, PHP, Ciberseguridad y más teconologías**
 - 🧠 Siempre dispuesto a aprender algo nuevo
 - 📫 Cómo contactarme: [gzlbernal@gmail.com](mailto:gzlbernal@gnmail.com)
 
