@@ -55,6 +55,13 @@ Plataforma web para la gestión de videojuegos estructurada como una Single Page
 
 ---
 
+## 🗒️ Curriculum Web
+
+### [CV Gonzalo Bernal](https://gzbl-dev.github.io/cv-gonzalo-bernal/)
+Web personal para mostrar mi experiencia profesional, proyectos y skills.
+
+---
+
 ## ⚡ En resumen...
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ED8B00&width=435&lines=De+los+Esports+al+Desarrollo;Alto+rendimiento+bajo+presion;Disciplina+y+Trabajo+en+equipo;Desarrollador+de+Software;Resolucion+de+problemas)](https://git.io/typing-svg)
